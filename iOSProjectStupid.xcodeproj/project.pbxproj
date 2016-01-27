@@ -156,6 +156,7 @@
 		7CFD32241C1B29A0003B4EC1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = CTEC;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				7CFD324D1C1B29A0003B4EC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7CFD324E1C1B29A0003B4EC1 /* Build configuration list for PBXNativeTarget "iOSProjectStupidTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				7CFD32501C1B29A0003B4EC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
